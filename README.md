@@ -1,4 +1,4 @@
-# THIS HAS BEEN MOVED TO [https://github.com/Saghen/lacer](https://github.com/Saghen/lacer-old)
+# THIS HAS BEEN MOVED TO [https://github.com/Saghen/lacer](https://github.com/Saghen/lacer)
 
 <p align="center">
   <img src="https://i.imgur.com/ecqYJwC.png" width="80%">
